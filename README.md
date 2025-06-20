@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wikolyya
 - 👀 I’m interested in different fields in computing science, such as AI, data science, business intelligence! 
 - 🌱 I’m currently learning computing science and mathematics in a french university based in Marseille, 3rd year. 
-- 📫 How to reach me : on GMAIL (victoria.bouchet6@gmail.com) or Facebook (https://www.facebook.com/wikolya)
 - 😄 Pronouns: sher/her
 - ⚡ Fun fact: I have a degree in orthoptics 
 
